@@ -7,8 +7,6 @@ namespace curso
     {
         static void Main(string[] args)
         {
-            string mensagem;
-
             Console.WriteLine("Digite primeiro valor inteiro");
             int valueOne = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite segundo valor inteiro");
