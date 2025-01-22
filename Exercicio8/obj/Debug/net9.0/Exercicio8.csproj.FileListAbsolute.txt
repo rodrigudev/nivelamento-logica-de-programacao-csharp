@@ -1,0 +1,15 @@
+C:\NivelamentoCsharp\Exercicio8\obj\Debug\net9.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\NivelamentoCsharp\Exercicio8\obj\Debug\net9.0\Exercicio8.AssemblyInfoInputs.cache
+C:\NivelamentoCsharp\Exercicio8\obj\Debug\net9.0\Exercicio8.AssemblyInfo.cs
+C:\NivelamentoCsharp\Exercicio8\obj\Debug\net9.0\Exercicio8.csproj.CoreCompileInputs.cache
+C:\NivelamentoCsharp\Exercicio8\obj\Debug\net9.0\Exercicio8.sourcelink.json
+C:\NivelamentoCsharp\Exercicio8\bin\Debug\net9.0\Exercicio8.exe
+C:\NivelamentoCsharp\Exercicio8\bin\Debug\net9.0\Exercicio8.deps.json
+C:\NivelamentoCsharp\Exercicio8\bin\Debug\net9.0\Exercicio8.runtimeconfig.json
+C:\NivelamentoCsharp\Exercicio8\bin\Debug\net9.0\Exercicio8.dll
+C:\NivelamentoCsharp\Exercicio8\bin\Debug\net9.0\Exercicio8.pdb
+C:\NivelamentoCsharp\Exercicio8\obj\Debug\net9.0\Exercicio8.dll
+C:\NivelamentoCsharp\Exercicio8\obj\Debug\net9.0\refint\Exercicio8.dll
+C:\NivelamentoCsharp\Exercicio8\obj\Debug\net9.0\Exercicio8.pdb
+C:\NivelamentoCsharp\Exercicio8\obj\Debug\net9.0\Exercicio8.genruntimeconfig.cache
+C:\NivelamentoCsharp\Exercicio8\obj\Debug\net9.0\ref\Exercicio8.dll
