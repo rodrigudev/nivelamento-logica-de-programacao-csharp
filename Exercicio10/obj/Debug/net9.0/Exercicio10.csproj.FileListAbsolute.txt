@@ -1,0 +1,15 @@
+C:\NivelamentoCsharp\Exercicio10\bin\Debug\net9.0\Exercicio10.exe
+C:\NivelamentoCsharp\Exercicio10\bin\Debug\net9.0\Exercicio10.deps.json
+C:\NivelamentoCsharp\Exercicio10\bin\Debug\net9.0\Exercicio10.runtimeconfig.json
+C:\NivelamentoCsharp\Exercicio10\bin\Debug\net9.0\Exercicio10.dll
+C:\NivelamentoCsharp\Exercicio10\bin\Debug\net9.0\Exercicio10.pdb
+C:\NivelamentoCsharp\Exercicio10\obj\Debug\net9.0\Exercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\NivelamentoCsharp\Exercicio10\obj\Debug\net9.0\Exercicio10.AssemblyInfoInputs.cache
+C:\NivelamentoCsharp\Exercicio10\obj\Debug\net9.0\Exercicio10.AssemblyInfo.cs
+C:\NivelamentoCsharp\Exercicio10\obj\Debug\net9.0\Exercicio10.csproj.CoreCompileInputs.cache
+C:\NivelamentoCsharp\Exercicio10\obj\Debug\net9.0\Exercicio10.sourcelink.json
+C:\NivelamentoCsharp\Exercicio10\obj\Debug\net9.0\Exercicio10.dll
+C:\NivelamentoCsharp\Exercicio10\obj\Debug\net9.0\refint\Exercicio10.dll
+C:\NivelamentoCsharp\Exercicio10\obj\Debug\net9.0\Exercicio10.pdb
+C:\NivelamentoCsharp\Exercicio10\obj\Debug\net9.0\Exercicio10.genruntimeconfig.cache
+C:\NivelamentoCsharp\Exercicio10\obj\Debug\net9.0\ref\Exercicio10.dll

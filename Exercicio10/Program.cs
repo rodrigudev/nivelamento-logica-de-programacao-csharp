@@ -15,38 +15,52 @@ namespace curso
             int valueTwo = int.Parse(values[1]);
             int valueThree = int.Parse(values[2]);
 
-            int maxValue, minValue, multiplication, division;
+            int maxValue = 0, minValue = 0;
+            double multiplication, division;
 
             if (valueOne >= valueTwo && valueOne >= valueThree)
             {
+                maxValue = valueOne;
+
                 if (valueTwo >= valueThree)
                 {
-                    multiplication = valueThree * valueOne;
-                    division = valueOne / valueThree;
-                    Console.WriteLine($"A Multiplicação entre menor valor e o maior é: {multiplication}");
-                    Console.WriteLine($"A Divisão entre maior valor e o menor é: {division}");
+                    minValue = valueThree;
                 }
                 else
                 {
-                    multiplication = valueTwo * valueOne;
-                    division = valueOne / valueTwo;
-                    Console.WriteLine($"A Multiplicação entre menor valor e o maior é: {multiplication}");
-                    Console.WriteLine($"A Divisão entre maior valor e o menor é: {division}");
+                    minValue = valueTwo;
                 }
             }
             else if (valueTwo >= valueThree && valueTwo >= valueOne)
             {
-                minValue = valueThree;
-                multiplication = minValue * valueOne;
-                division = valueOne / valueThree;
-            }
-            else
-            {
-                minValue = valueTwo;
-                multiplication = valueTwo * valueOne;
-                division = valueOne / valueTwo;
-            }
+                maxValue = valueTwo;
 
+                if (valueThree >= valueOne)
+                {
+                    minValue = valueOne;
+                }
+                else
+                {
+                    minValue = valueThree;
+                }
+            }
+            else if (valueThree >= valueOne && valueThree >= valueTwo)
+            {
+                maxValue = valueThree;
+
+                if (valueOne >= valueTwo)
+                {
+                    minValue = valueTwo;
+                }
+                else
+                {
+                    minValue = valueOne;
+                }
+            }
+            multiplication = minValue * maxValue;
+            division = maxValue / minValue;
+            Console.WriteLine($"A Multiplicação entre menor valor e o maior é: {multiplication:F2}");
+            Console.WriteLine($"A Divisão entre maior valor e o menor é: {division:F2}");
 
 
         }
